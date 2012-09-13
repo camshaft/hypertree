@@ -12,7 +12,7 @@
       {
         "href": "http://camshaft.github.com/hypertree/api/connie.json",
         "data": [
-          {"name": "name", "value": "Darrell Anderson", "prompt": "Name"},
+          {"name": "name", "value": "Connie Anderson", "prompt": "Name"},
           {"name": "birthday", "value": "", "prompt": "Birthday"}
         ],
         "links": [
