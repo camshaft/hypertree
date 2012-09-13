@@ -5,7 +5,7 @@
     "href": "http://camshaft.github.com/hypertree/api/criesta.json",
 
     "links": [
-      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/me.json"}
     ],
 
     "items": [

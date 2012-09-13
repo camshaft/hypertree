@@ -5,7 +5,7 @@
     "href": "http://camshaft.github.com/hypertree/api/mercy.json",
 
     "links": [
-      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/me.json"}
     ],
 
     "items": [

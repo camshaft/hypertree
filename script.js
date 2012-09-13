@@ -18,7 +18,7 @@ var vis = d3.select("#chart").append("svg:svg")
     .append("svg:g")
     .attr("transform", "translate(40,0)");
 
-var rootURL = "http://camshaft.github.com/hypertree/api";
+var rootURL = "http://camshaft.github.com/hypertree/api/me.json";
 
 d3.json(rootURL, function(me) {
   me.x0 = 800;

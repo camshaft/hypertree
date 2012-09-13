@@ -2,15 +2,15 @@
   "collection":
   {
     "version": "1.0",
-    "href": "http://camshaft.github.com/hypertree/api/cameron.json",
+    "href": "http://camshaft.github.com/hypertree/api/me.json",
 
     "links": [
-      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/me.json"}
     ],
 
     "items": [
       {
-        "href": "http://camshaft.github.com/hypertree/api/cameron.json",
+        "href": "http://camshaft.github.com/hypertree/api/me.json",
         "data": [
           {"name": "name", "value": "Cameron Bytheway", "prompt": "Name"},
           {"name": "birthday", "value": "1988-09-19", "prompt": "Birthday"}
