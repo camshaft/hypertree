@@ -1,0 +1,28 @@
+{
+  "collection":
+  {
+    "version": "1.0",
+    "href": "http://camshaft.github.com/hypertree/api/henry+mercy.json",
+
+    "links": [
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+    ],
+
+    "items": [
+      {
+        "href": "http://camshaft.github.com/hypertree/api/alvin.json",
+        "data": [
+          {"name": "name", "value": "Alvin Bytheway", "prompt": "Name"},
+          {"name": "birthday", "value": "", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "spouse", "href": "http://camshaft.github.com/hypertree/api/criesta.json"},
+          {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/henry.json"},
+          {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/mercy.json"},
+          {"ref": "children", "href": "http://camshaft.github.com/hypertree/api/alvin+criesta.json"}
+        ]
+      }
+    ]
+  }
+}

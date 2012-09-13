@@ -1,0 +1,28 @@
+{
+  "collection":
+  {
+    "version": "1.0",
+    "href": "http://camshaft.github.com/hypertree/api/criesta.json",
+
+    "links": [
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+    ],
+
+    "items": [
+      {
+        "href": "http://camshaft.github.com/hypertree/api/criesta.json",
+        "data": [
+          {"name": "name", "value": "Criesta Thomas", "prompt": "Name"},
+          {"name": "birthday", "value": "", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "spouse", "href": "http://camshaft.github.com/hypertree/api/alvin.json"},
+          {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/charles.json"},
+          {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/viola.json"},
+          {"ref": "children", "href": "http://camshaft.github.com/hypertree/api/alvin+criesta.json"}
+        ]
+      }
+    ]
+  }
+}

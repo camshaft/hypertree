@@ -1,0 +1,26 @@
+{
+  "collection":
+  {
+    "version": "1.0",
+    "href": "http://camshaft.github.com/hypertree/api/charles.json",
+
+    "links": [
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+    ],
+
+    "items": [
+      {
+        "href": "http://camshaft.github.com/hypertree/api/charles.json",
+        "data": [
+          {"name": "name", "value": "Charles Thomas", "prompt": "Name"},
+          {"name": "birthday", "value": "1881-05-05", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "spouse", "href": "http://camshaft.github.com/hypertree/api/viola.json"},
+          {"ref": "children", "href": "http://camshaft.github.com/hypertree/api/charles+viola.json"}
+        ]
+      }
+    ]
+  }
+}

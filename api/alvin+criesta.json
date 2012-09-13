@@ -1,0 +1,28 @@
+{
+  "collection":
+  {
+    "version": "1.0",
+    "href": "http://camshaft.github.com/hypertree/api/alvin+criesta.json",
+
+    "links": [
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+    ],
+
+    "items": [
+      {
+        "href": "http://camshaft.github.com/hypertree/api/alvin+criesta.json",
+        "data": [
+          {"name": "name", "value": "Jared Bytheway", "prompt": "Name"},
+          {"name": "birthday", "value": "1964-07-23", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "spouse", "href": "http://camshaft.github.com/hypertree/api/shellie.json"},
+          {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/alvin.json"},
+          {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/criesta.json"},
+          {"ref": "children", "href": "http://camshaft.github.com/hypertree/api/jared+shellie.json"}
+        ]
+      }
+    ]
+  }
+}

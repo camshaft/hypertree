@@ -1,0 +1,66 @@
+{
+  "collection":
+  {
+    "version": "1.0",
+    "href": "http://camshaft.github.com/hypertree/api/jared+shellie.json",
+
+    "links": [
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+    ],
+
+    "items": [
+      {
+        "href": "http://camshaft.github.com/hypertree/api/cameron.json",
+        "data": [
+          {"name": "name", "value": "Cameron Bytheway", "prompt": "Name"},
+          {"name": "birthday", "value": "1988-09-19", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/jared.json"},
+          {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/shellie.json"},
+          {"rel": "siblings", "href": "http://camshaft.github.com/hypertree/api/jared+shellie.json"}
+        ]
+      },
+      {
+        "href": "http://camshaft.github.com/hypertree/api/brenden.json",
+        "data": [
+          {"name": "name", "value": "Brenden Bytheway", "prompt": "Name"},
+          {"name": "birthday", "value": "", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/jared.json"},
+          {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/shellie.json"},
+          {"rel": "siblings", "href": "http://camshaft.github.com/hypertree/api/jared+shellie.json"}
+        ]
+      },
+      {
+        "href": "http://camshaft.github.com/hypertree/api/katelyn.json",
+        "data": [
+          {"name": "name", "value": "Katelyn Bytheway", "prompt": "Name"},
+          {"name": "birthday", "value": "", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/jared.json"},
+          {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/shellie.json"},
+          {"rel": "siblings", "href": "http://camshaft.github.com/hypertree/api/jared+shellie.json"}
+        ]
+      },
+      {
+        "href": "http://camshaft.github.com/hypertree/api/dallin.json",
+        "data": [
+          {"name": "name", "value": "Dallin Bytheway", "prompt": "Name"},
+          {"name": "birthday", "value": "", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/jared.json"},
+          {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/shellie.json"},
+          {"rel": "siblings", "href": "http://camshaft.github.com/hypertree/api/jared+shellie.json"}
+        ]
+      }
+    ]
+  }
+}

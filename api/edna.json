@@ -1,0 +1,26 @@
+{
+  "collection":
+  {
+    "version": "1.0",
+    "href": "http://camshaft.github.com/hypertree/api/edna.json",
+
+    "links": [
+      {"rel": "index", "href": "http://camshaft.github.com/hypertree/api/"}
+    ],
+
+    "items": [
+      {
+        "href": "http://camshaft.github.com/hypertree/api/edna.json",
+        "data": [
+          {"name": "name", "value": "Edna Hayes", "prompt": "Name"},
+          {"name": "birthday", "value": "1912-05-10", "prompt": "Birthday"}
+        ],
+        "links": [
+          {"rel": "avatar", "href": "http://camshaft.github.com/hypertree/api/img/anonymous.png", "prompt": "Avatar", "render": "image"},
+          {"rel": "spouse", "href": "http://camshaft.github.com/hypertree/api/robert.json"},
+          {"ref": "children", "href": "http://camshaft.github.com/hypertree/api/robert+edna.json"}
+        ]
+      }
+    ]
+  }
+}
