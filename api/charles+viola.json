@@ -20,7 +20,7 @@
           {"rel": "spouse", "href": "http://camshaft.github.com/hypertree/api/alvin.json"},
           {"rel": "father", "href": "http://camshaft.github.com/hypertree/api/charles.json"},
           {"rel": "mother", "href": "http://camshaft.github.com/hypertree/api/viola.json"},
-          {"ref": "children", "href": "http://camshaft.github.com/hypertree/api/alvin+criesta.json"}
+          {"rel": "children", "href": "http://camshaft.github.com/hypertree/api/alvin+criesta.json"}
         ]
       }
     ]
